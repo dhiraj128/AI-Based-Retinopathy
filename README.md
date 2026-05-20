@@ -1,4 +1,4 @@
-# 🩺 AI-Based Diabetic Retinopathy Grading using Deep Learning
+# 🩺 AI-Based Diabetic Retinopathy Grading with Attention Mechanisms
 
 An AI-powered deep learning application for detecting and grading **Diabetic Retinopathy (DR)** from retinal fundus images using **EfficientNet-B0 + CBAM Attention Mechanism** with Grad-CAM explainability and PDF clinical report generation.
 
